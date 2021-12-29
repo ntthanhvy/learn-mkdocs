@@ -1,0 +1,13 @@
+site_name: Ho tro BigM
+
+nav:
+  - Home: 'index.md'
+  - Buyer: 
+      - 'Don hang': 'buyer/order.md'
+      - 'Thong tin nguoi dung': 'buyer/profile.md'
+  - Seller:
+      - 'Shops': 'seller/shop.md'
+      - Product: 'seller/product.md'
+
+theme:
+  name: bootstrap4
